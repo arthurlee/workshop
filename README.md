@@ -12,7 +12,7 @@ please let us know!
 This workshop assumes you've had experience with:
 
 - node.js
-- Express, Restify, or any similar node.js frameworks
+- Express, [Restify](https://github.com/restify/node-restify), or any similar node.js frameworks
 - Asynchronous programming - callbacks or promises
 
 ES6 generators are relatively new.
@@ -40,7 +40,8 @@ Then you must install this workshop.
 You can either fork this workshop (recommended) or clone it:
 
 ```bash
-git clone git://github.com/koajs/workshop
+# git clone git://github.com/koajs/workshop
+git clone git://github.com/arthurlee/workshop
 cd workshop
 ```
 
